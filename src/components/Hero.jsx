@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             We are an all MCJROTC team <br className='sm:block hidden' />
-            and an ROTC Nationals finalist
+            and a JROTC Nationals finalist
           </p>
         </div>
       </div>
