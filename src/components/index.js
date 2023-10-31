@@ -6,6 +6,8 @@ import Tech from "./Tech";
 import Experience from "./Experience";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
+import Works from "./Works";
+import Feedbacks from "./Feedbacks";
 
 
 export {
@@ -19,5 +21,7 @@ export {
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
-  StarsCanvas
+  StarsCanvas,
+  Works,
+  Feedbacks
 };
