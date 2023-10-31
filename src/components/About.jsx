@@ -47,11 +47,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        We are an all MCJROTC VRC team in Texas Region 5. Our team was formed in 
+        November of 2020, and we have competed at our state competition (previously 
+        Region 2) for 2 years, JROTC Nationals for the past 3 years, and at Worlds 
+        once during Tipping Point.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
