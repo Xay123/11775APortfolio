@@ -115,7 +115,7 @@ const experiences = [
     title: "Change Up",
     company_name: "Our Start",
     icon: starbucks,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "November 2020 - May 2021",
     points: [
       "Our team was founded.",
@@ -142,7 +142,7 @@ const experiences = [
     title: "Spin Up",
     company_name: "New Teammates",
     icon: shopify,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "May 2022 - May 2023",
     points: [
       "Our graduating class caused our A and C teams to merge.",
