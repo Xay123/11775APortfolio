@@ -32,29 +32,25 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
-  },
-  {
-    id: "contact",
-    title: "Contact",
+    title: "Experience",
   },
 ];
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Zachary Layland",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Rhyan Obina",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Marcus Hadaway",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Renee Sermarini",
     icon: creator,
   },
 ];
@@ -116,55 +112,55 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Change Up",
+    company_name: "Our Start",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "November 2020 - May 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Our team was founded.",
+      "We only had a hero bot with simple modifications for descoring.",
+      "We won a competition in Mesquite for a JROTC-only competition qualifying for state.",
+      "We lost early at state, but we qualified for JROTC Remote Nationals.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Tipping Point",
+    company_name: "Nationals Finalist",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "May 2021 - May 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "We won our competition at Burkburnett and got close many other times.",
+      "We had a DR4B robot with a locking claw for the goals.",
+      "We started using PID and had an auto-balance auton that got 113 points.",
+      "We competed in the dome for JROTC Nationals and lost in the finals.",
+      "We qualified and competed for the World's Competition as well.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Spin Up",
+    company_name: "New Teammates",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "May 2022 - May 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Our graduating class caused our A and C teams to merge.",
+      "We went through many iterations of flywheel and cata bots with a 6 motor drive.",
+      "We qualified for nationals again and made it to the elimination rounds.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Over Under 2023",
+    company_name: "This Year's Start",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "May 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "We have a new builder because of graduation.",
+      "We made a 6-motor drivetrain with a fast match load catapult and intake.",
+      "We competed at Lovejoy and got eliminated in the semifinals from tipping.",
+      "We got a 220 point skills putting us in the top 5 of JROTC skills nationwide at the time of the event.",
     ],
   },
 ];
