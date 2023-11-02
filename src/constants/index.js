@@ -160,7 +160,7 @@ const experiences = [
       "We have a new builder because of graduation.",
       "We made a 6-motor drivetrain with a fast match load catapult and intake.",
       "We competed at Lovejoy and got eliminated in the semifinals from tipping.",
-      "We got a 220 point skills putting us in the top 5 of JROTC skills nationwide at the time of the event.",
+      "We got a 220 point skills putting us in the top 3 of JROTC skills nationwide at the time of the event.",
     ],
   },
 ];
